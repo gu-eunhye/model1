@@ -16,8 +16,8 @@
 	
 	<!-- Links -->
 	<ul class="navbar-nav">
-		
-		<li class="nav-item"><a href="<%=request.getContextPath()%>/subject/subjectList.jsp" class="nav-link">SUBJECT LIST</a></li>
+		<li class="nav-item"><a href="<%=request.getContextPath()%>/teacher/teacherList.jsp" class="nav-link">TeacherLIST</a></li>
+		<li class="nav-item"><a href="<%=request.getContextPath()%>/subject/subjectList.jsp" class="nav-link">SubjectLIST</a></li>
 	</ul>
 </nav>
 <br>
